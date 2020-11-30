@@ -54,3 +54,7 @@ A. Ensure that you have the `FORCEINITIALIZEDATABASE` variable in your .env file
 
 Q. Why do I receive an authentication error when trying to access database? <br >
 A. Check that your .env file has the correct `PGDATABASE`, `PGUSER` and `PGPASSWORD` fields. These should have been set up on your local PostgreSQL already.
+
+### Copyright Disclaimer
+
+The use of the likeness of the character "Capoo" is used purely for non-commercial purposes. We do not intend to commercialize CapooCare.
